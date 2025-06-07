@@ -49,12 +49,8 @@ This project aims to build an intelligent fraud detection system capable of iden
 * Data balancing was **crucial** to avoid overfitting to the majority class.
 
 ## 📊 Visualizations
-
-* Confusion matrices
-* ROC Curves
-* Histograms of features
-* Correlation heatmaps
-
+![Confusion matrix achieved using SMOTE over-sampling and a simple dense neural network](https://github.com/maanasaprathap/credit-card-fraud-detection/blob/main/images/main%20cm.png)
+![Comparison of key performance indicators between the tested approaches](https://github.com/maanasaprathap/credit-card-fraud-detection/blob/main/images/main%202.png)
 ## 📂 Repository Structure
 
 ```
